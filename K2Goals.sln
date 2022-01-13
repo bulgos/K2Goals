@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGoals", "src\CustomGoals\CustomGoals.csproj", "{65D0372D-88F7-41B6-BFBC-05B58EED2E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K2Goals", "src\K2Goals\K2Goals.csproj", "{7B75BFA0-6495-450F-84F9-3E90AC9AF5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D0372D-88F7-41B6-BFBC-05B58EED2E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D0372D-88F7-41B6-BFBC-05B58EED2E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D0372D-88F7-41B6-BFBC-05B58EED2E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D0372D-88F7-41B6-BFBC-05B58EED2E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B75BFA0-6495-450F-84F9-3E90AC9AF5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B75BFA0-6495-450F-84F9-3E90AC9AF5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B75BFA0-6495-450F-84F9-3E90AC9AF5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B75BFA0-6495-450F-84F9-3E90AC9AF5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A902E6-E370-4314-B6E8-FF966D5936A9}
+	EndGlobalSection
+EndGlobal
